@@ -1,6 +1,7 @@
 .App {
   background-color: #f7f7f7;
+  border: 12px solid #fff;
+  border-radius: 20px;
   height: 100vh;
   text-align: center;
-  width: 100%;
 }
